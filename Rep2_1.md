@@ -1,4 +1,4 @@
-...
+```
 
 void setup(){
   size(800,300);
@@ -17,5 +17,4 @@ void keyPressed(){
   sp = key - '0';
 }
 
-
-...
+```
