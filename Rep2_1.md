@@ -17,4 +17,5 @@ void keyPressed(){
   sp = key - '0';
 }
 
+
 ...
